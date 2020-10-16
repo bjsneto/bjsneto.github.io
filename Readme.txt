@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+Credits :
+--------- 
 
-Template Name: Lonely
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+=> Design & developed: "WebThemez"  http://webthemez.com 
+=> Icons: https://www.flaticon.com/
+=> Bootstrap : http://getbootstrap.com/
+=> Fontawesome : https://fortawesome.github.io/Font-Awesome/
+=> Fonts : https://www.google.com/fonts
+=> Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
+=> Carousel : http://owlgraphic.com/owlcarousel/
+=> Illustrations: https://undraw.co/illustrations
